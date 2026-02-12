@@ -64,17 +64,10 @@ The analysis framework provides:
 - Scalable analytical foundation for predictive modeling
 
 ---
-
-## Project Structure
-Retail-Sales-Analysis-Python/
-│
-├── retail-sales-analysis.ipynb
-├── retail-sales-dataset.csv
-└── screenshots
-
 ## Visualizations Preview
 
-![EDA Overview]
+![EDA Overview]( Retail-Sales-Analysis-Python
+/screenshot1 titel.png) 
 
 ---
 
