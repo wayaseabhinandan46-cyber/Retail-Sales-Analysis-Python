@@ -65,12 +65,12 @@ The analysis framework provides:
 
 ---
 ## Visualizations Preview
-![EDA Overview](screenshot1%20.png)
-![EDA Overview](screenshot2%20.png)
-![EDA Overview](screenshot3%20.png)
-![EDA Overview](screenshot4%20.png)
-![EDA Overview](screenshot5%20.png)
-![EDA Overview](screenshot6%20.png)
+![EDA Overview](screenshot1.png)
+![EDA Overview](screenshot2.png)
+![EDA Overview](screenshot3.png)
+![EDA Overview](screenshot4.png)
+![EDA Overview](screenshot5.png)
+![EDA Overview](screenshot6.png)
 
 
 
