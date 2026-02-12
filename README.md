@@ -65,9 +65,14 @@ The analysis framework provides:
 
 ---
 ## Visualizations Preview
+![EDA Overview](screenshot1%20titel.png)
+![EDA Overview](screenshot2%20dataclening.png)
+![EDA Overview](screenshot3%20chart.png)
+![EDA Overview](screenshot4%20chart.png)
+![EDA Overview](screenshot5%20chart.png)
+![EDA Overview](screenshot6%20chart.png)
 
-![EDA Overview]( Retail-Sales-Analysis-Python
-/screenshot1 titel.png) 
+
 
 ---
 
